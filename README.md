@@ -2,7 +2,7 @@
 
 Esse é um projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, em particular com o ChatGPT. Todos os prompts seguem abaixo. 
 
-<a href = > Clique aqui para ler <\a>
+<a href =  https://github.com/murilatorre/dio-ebook/blob/main/Bash%2C%20eu%20escolho%20voc%C3%AA!%20Guia%20essencial%20para%20treinadores%20de%20terminal..pdf> Clique aqui para ler <\a>
 
 ## 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/)
